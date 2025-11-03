@@ -1,0 +1,16 @@
+ @import "tailwindcss";
+ :root {
+  --color-primary: #ef4444; /* red-500 */
+  --color-secondary: #f87171;
+  --color-background: #ffffff;
+  --color-text: #000000;
+}
+
+/* Dark theme example */
+[data-theme="dark"] {
+  --color-primary: #3b82f6; /* blue-500 */
+  --color-secondary: #60a5fa;
+  --color-background: #0f172a;
+  --color-text: #f1f5f9;
+}
+ 
