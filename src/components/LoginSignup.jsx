@@ -80,7 +80,7 @@ export const LoginSignup = () => {
       try {
         console.log("sssssssssss");
         const res = await axios.post(
-          "https://myshop-backand.onrender.com/api/users/register",
+          "https://myshop-backend.onrender.com/api/users/register",
           formData,
           {
             withCredentials: true,
