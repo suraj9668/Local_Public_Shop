@@ -9,5 +9,6 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss(),
-  ]
+  ],
+  base: "/Local_Public_Shop/",
 })

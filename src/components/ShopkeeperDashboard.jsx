@@ -28,7 +28,7 @@ const ShopkeeperDashboard = () => {
     async function dashboard() {
       const token = localStorage.getItem("token")
       console.log(token)
-      const dashRes = await axios.get("http://localhost:3000/api/users/dashboard", {
+      const dashRes = await axios.get("https://myshop-backand.onrender.com/users/dashboard", {
         headers: {
           Authorization: token
         }

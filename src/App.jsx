@@ -29,7 +29,7 @@ function App() {
       {/* <AddProduct></AddProduct> */}
 
 
-      <BrowserRouter>
+      <BrowserRouter basename="/Local_Public_Shop">
 
         <Routes>
           <Route path="/" element={<LandingPage />}></Route>

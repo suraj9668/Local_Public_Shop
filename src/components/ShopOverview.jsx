@@ -123,3 +123,16 @@ const ShopOverview = () => {
 };
 
 export default ShopOverview;
+
+
+// git remote add origin https://github.com/suraj9668/Local_Public_Shop.git
+
+// surajmalviya9668_db_user
+
+// tQxLOuX4K18fZwC3
+
+// mongodb+srv://surajmalviya9668_db_user:tQxLOuX4K18fZwC3@cluster0.d3u7yv0.mongodb.net/?appName=Cluster0
+
+// local-public-shop-1dunt9uuv-suraj9668s-projects.vercel.app
+
+// local-public-shop.vercel.app
